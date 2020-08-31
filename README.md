@@ -1,6 +1,6 @@
 ## General Overview
 <p align="justify">
-<a href="https://github.com/camiel1/Masters_Capstone/blob/master/Final_Paper.pdf">Final_Paper.pdf</a> in this repository represents the culmination of a semester long study on forecasting ocean waves using Time Series and Machine Learning techniques using R: a language and environment for statistical computing. In addition, this repository contains .R files for all models and visuals as well as data files for raw buoy data and bathymetry map data. Below you'll find the main title and abstract of this study.
+<a href="https://github.com/camiel1/Masters_Capstone/blob/master/Final_Paper.pdf">Final_Paper.pdf</a> in this repository represents the culmination of a semester long study on forecasting ocean waves using Time Series and Machine Learning techniques with R: a language and environment for statistical computing. In addition, this repository contains .R files for all models and visuals as well as data files for raw buoy data and bathymetry map data. Below you'll find the main title and abstract of this study.
 <p>
 
 
